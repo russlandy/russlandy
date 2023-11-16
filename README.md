@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Ruslan;
-- 👀 I’m interested in programming when I have free time. Basically I'm project civil engineer;
+- 👀 I’m interested in programming when I have free time. Basically I'm project design engineer;
 - 🌱 I’m currently learning Javascript and React;
-- 💞️ I’m looking to collaborate on some best teams for learning best things. Ready for an internship;
 - 📫 How to reach me: via Telegram @rslnl;
 
 <!---
