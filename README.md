@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ruslan;
-- 👀 Frontend developer;
-- 🌱 Javascript and React;
+- 👀 Frontend engineer;
+- 🌱 Javascript, React, Next.js, TailWind;
 - 📫 How to reach me: via Telegram @rslnl;
 
 <!---
